@@ -1,3 +1,3 @@
 # hello-world
 **This program created to greet the World**
-H~Subscript~O 
+- [x] Russian :ship:, go f#ck yourself! 
